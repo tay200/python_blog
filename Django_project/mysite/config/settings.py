@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '%k)!tm9*5u$p7510iwk(9l!y1s$l3m%1%6r_-*4nf)l60hg0dd'
+SECRET_KEY = 'ss5d3xl#g%40c*l)w_)&qg1(t+7=ofk*_e&(60nvn2+s2auv3h'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -31,6 +31,10 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+# ---------------------------------------- [edit] ---------------------------------------- #
+    'pybo.apps.PyboConfig',
+#(※ 파이보 앱을 INSTALLED_APPS 항목에 추가하지 않으면 데이터베이스 관련된 작업을 할 수 없으니 빠뜨리지 않도록 주의하자.)#
+# ---------------------------------------------------------------------------------------- #
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

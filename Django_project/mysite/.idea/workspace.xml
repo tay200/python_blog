@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c88904b-1a7e-4792-9bb5-9568642fc118" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mysite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/Django-3.1.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/Django-3.1.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/asgiref-3.2.10.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/asgiref-3.2.10.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pip-20.2.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pip-20.2.3.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/extern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/extern/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pkg_resources/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pytz-2020.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/pytz-2020.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools-41.2.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools-41.2.0.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools-41.2.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools-41.2.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools-41.2.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools-41.2.0.dist-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools-41.2.0.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools-41.2.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools-41.2.0.dist-info/zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/__about__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/__about__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/_compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/_structures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/_structures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/markers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/_vendor/packaging/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/archive_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/archive_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/build_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/build_meta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/bdist_egg.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/bdist_wininst.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/bdist_wininst.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/build_clib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/build_clib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/build_ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/build_ext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/build_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/build_py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/develop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/develop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/easy_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/egg_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/install_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/install_lib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/install_scripts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/install_scripts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/py36compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/py36compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/rotate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/sdist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/sdist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/upload_docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/dep_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/dep_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/depends.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/depends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/dist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/extern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/extern/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/launch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/launch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/lib2to3_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/lib2to3_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/msvc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/msvc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/namespaces.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/namespaces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/py27compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/py27compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/sandbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/sandbox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/site-patch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/ssl_support.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/ssl_support.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/setuptools/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse-0.3.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse-0.3.1.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse-0.3.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse-0.3.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse-0.3.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse-0.3.1.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse-0.3.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/engine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/engine/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/engine/filter_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/engine/filter_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/engine/grouping.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/engine/grouping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/engine/statement_splitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/engine/statement_splitter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/aligned_indent.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/aligned_indent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/others.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/others.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/output.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/output.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/reindent.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/reindent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/right_margin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/right_margin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/tokens.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/filters/tokens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/formatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/formatter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/keywords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/lexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/lexer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/sql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/tokens.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/tokens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Lib/site-packages/sqlparse/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/django-admin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/django-admin.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/django-admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/easy_install-3.8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/easy_install.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/pip3.8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/python.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/python.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/pythonw.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/pythonw.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/Scripts/sqlformat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/Scripts/sqlformat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../venvs/mysite/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../../venvs/mysite/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1iZjBrX5PnzF0A5fxn7MhAvhoWk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c88904b-1a7e-4792-9bb5-9568642fc118" name="Default Changelist" comment="" />
+      <created>1602121877200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602121877200</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="921" y="309" key="FileChooserDialogImpl" timestamp="1602121959759">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="921" y="309" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602121959759" />
+    <state x="643" y="199" key="SettingsEditor" timestamp="1602121964229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="643" y="199" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602121964229" />
+  </component>
+</project>
