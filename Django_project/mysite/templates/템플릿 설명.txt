@@ -1,0 +1,2 @@
+공통 템플릿 디렉터리 - C:\projects\mysite\templates
+파이보 앱 템플릿 디렉터리 - C:\projects\mysite\templates\pybo
