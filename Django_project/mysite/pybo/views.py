@@ -1,11 +1,13 @@
 from django.shortcuts import render
 
 # Create your views here.
-# ---------------------------------------- [edit] ---------------------------------------- #
+
 from django.shortcuts import render
 from .models import Question
-# ---------------------------------------- [edit] ---------------------------------------- #
 from django.shortcuts import render, get_object_or_404
+# ---------------------------------------- [edit] ---------------------------------------- #
+from django.shortcuts import render, get_object_or_404, redirect
+from django.utils import timezone
 # ---------------------------------------------------------------------------------------- #
 
 
@@ -19,9 +21,16 @@ def detail(request, question_id):
     """
     pybo 내용 출력
     """
-    # ---------------------------------------- [edit] ---------------------------------------- #
     question = get_object_or_404(Question, pk=question_id)
-    # ---------------------------------------------------------------------------------------- #
     context = {'question': question}
     return render(request, 'pybo/question_detail.html', context)
+
+# ---------------------------------------- [edit] ---------------------------------------- #
+def answer_create(request, question_id):
+    """
+    pybo 답변등록
+    """
+    question = get_object_or_404(Question, pk=question_id)
+    question.answer_set.create(content=request.POST.get('content'), create_date=timezone.now())
+    return redirect('pybo:detail', question_id=question.id)
 # ---------------------------------------------------------------------------------------- #
