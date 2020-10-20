@@ -31,10 +31,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-# ---------------------------------------- [edit] ---------------------------------------- #
     'pybo.apps.PyboConfig',
 #(※ 파이보 앱을 INSTALLED_APPS 항목에 추가하지 않으면 데이터베이스 관련된 작업을 할 수 없으니 빠뜨리지 않도록 주의하자.)#
-# ---------------------------------------------------------------------------------------- #
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -58,9 +56,7 @@ ROOT_URLCONF = 'config.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        # ---------------------------------------- [edit] ---------------------------------------- #
         'DIRS': [BASE_DIR / 'templates'],
-        # ---------------------------------------- [edit] ---------------------------------------- #
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -124,3 +120,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# ---------------------------------------- [edit] ---------------------------------------- #
+STATICFILES_DIRS = [
+    BASE_DIR / 'static',
+]
+# ---------------------------------------------------------------------------------------- #
