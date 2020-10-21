@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c88904b-1a7e-4792-9bb5-9568642fc118" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pybo/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pybo/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/pybo/static/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/pybo/question_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pybo/question_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/pybo/question_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pybo/question_list.html" afterDir="false" />
     </list>
