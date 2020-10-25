@@ -1,11 +1,9 @@
-<!-- ---------------------------------------- [edit] ---------------------------------------- -->
 {% extends 'base.html' %}
 {% block content %}
-<!-- ---------------------------------------------------------------------------------------- -->
 {% load static %}
 <link rel="stylesheet" type="text/css" href="{% static 'bootstrap.min.css' %}">
 <div class="container my-3">
-    <h2 class="border-bottom py-2">{{ question.subject }}</h2>
+    <h2 class="border-bottom py-2">{{ question.subject }}</h2>  <!-- question.subject, content -> detail 함수에서 넘겨받은 context -->
     <div class="card my-3">
         <div class="card-body">
             <div class="card-text" style="white-space: pre-line;">{{ question.content }}</div>
@@ -29,6 +27,7 @@
         </div>
     </div>
     {% endfor %}
+    <!-- {% url 'pybo:answer_create' question.id %} = 답변을 저장하는 URL -->
     <form action="{% url 'pybo:answer_create' question.id %}" method="post" class="my-3">
         {% csrf_token %}
         <!-- -------------------------------------- [edit] -------------------------------------- -->

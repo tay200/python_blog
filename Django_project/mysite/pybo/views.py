@@ -19,6 +19,7 @@ def index(request):
 
     context = {'question_list': page_obj}
     # ---------------------------------------------------------------------------------------- #
+    # 조회된 질문목록 데이터를 pybo/question_list.html 파일에 적용하여 HTML로 변환해 주는 함수
     return render(request, 'pybo/question_list.html', context)
 
 def detail(request, question_id):
